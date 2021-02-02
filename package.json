@@ -1,0 +1,11 @@
+{
+  "name": "erros",
+  "version": "0.0.1",
+  "description": "tratando erros",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC"
+}
